@@ -25,8 +25,8 @@ Python, Streamlit, Google Gemini API (`google-genai`), PayPal JavaScript SDK + O
 **Requirements:** Python 3.10+
 
 ```bash
-git clone <YOUR-REPO-URL>
-cd <YOUR-REPO-FOLDER>
+git clone https://github.com/vedhashvi03-del/ai-resume-portfolio-critic
+cd ai-resume-portfolio-critic
 python -m pip install -r requirements.txt
 ```
 
@@ -59,11 +59,11 @@ The app opens at http://localhost:8501.
 
 ## 🧪 Testing instructions for judges
 
-1. Start the app (see above), or open the hosted demo: **<HOSTED-DEMO-URL-IF-ANY>**
+1. Start the app (see above), or open the hosted demo: **https://your-app-link.streamlit.app**
 2. Paste any resume text (or upload a PDF) and click **Get my 3 free tips**. You get 3 tips.
 3. In the sidebar, click the yellow **PayPal** button and log in with this **Sandbox buyer** account (fake money only):
-   - Email: `<FILL-IN-SANDBOX-BUYER-EMAIL>`
-   - Password: `<FILL-IN-SANDBOX-BUYER-PASSWORD>`
+   - Email: `sb-8akrr53774325@personal.example.com`
+   - Password: `O>|H6xy>`
 4. Approve the $4.99 payment. A green "Payment successful" message with an **Order ID** appears. Click the box to copy it.
 5. Paste the Order ID into **"Paste your PayPal Order ID here"** and click **Verify payment**.
 6. The sidebar shows **Premium unlocked 🎉**. Click **Get my full premium critique** to see the full report.
