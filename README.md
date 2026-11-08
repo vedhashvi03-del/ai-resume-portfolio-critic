@@ -1,4 +1,4 @@
-# 📄 AI Resume & Portfolio Critic
+# 📄 AI Resume & Portfolio Critic 
 
 A freemium web app that gives job seekers instant, AI-powered feedback on their resume and portfolio.
 Built for the **PayPal AI Hackathon** with **Streamlit**, **Google Gemini** and the **PayPal Sandbox**.
