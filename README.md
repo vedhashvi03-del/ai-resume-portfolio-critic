@@ -59,7 +59,7 @@ The app opens at http://localhost:8501.
 
 ## 🧪 Testing instructions for judges
 
-1. Start the app (see above), or open the hosted demo: **https://your-app-link.streamlit.app**
+1. Start the app (see above), or open the hosted demo: https://ai-resume-portfolio-critic-psuqtnkty6vkbbeafbjuew.streamlit.app/
 2. Paste any resume text (or upload a PDF) and click **Get my 3 free tips**. You get 3 tips.
 3. In the sidebar, click the yellow **PayPal** button and log in with this **Sandbox buyer** account (fake money only):
    - Email: `sb-8akrr53774325@personal.example.com`
